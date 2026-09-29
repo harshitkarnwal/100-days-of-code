@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-09-29 (reconstructed)
 // Q101: Find the first and last occurrence of target in a sorted array.
 #include <stdio.h>
 #include <stdlib.h>
