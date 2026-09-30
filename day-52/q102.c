@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-09-30 (reconstructed)
 // Q102: Return the first index whose value is greater than or equal to x (ceil).
 #include <stdio.h>
 #include <stdlib.h>
