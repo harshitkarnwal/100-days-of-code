@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-01 (reconstructed)
 // Q103: Find the leftmost pivot index where left and right sums are equal.
 #include <stdio.h>
 #include <stdlib.h>
