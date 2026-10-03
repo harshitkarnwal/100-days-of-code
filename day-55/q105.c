@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-03 (reconstructed)
 // Q105: Find an element occurring strictly more than n/2 times.
 #include <stdio.h>
 #include <stdlib.h>
