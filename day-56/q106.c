@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-04 (reconstructed)
 // Q106: Next greater element to the right, using the required nested-loop method.
 #include <stdio.h>
 #include <stdlib.h>
