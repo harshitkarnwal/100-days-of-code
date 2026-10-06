@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-06 (reconstructed)
 // Q108: Product of array except self, without division and in O(n) time.
 #include <stdio.h>
 #include <stdlib.h>
