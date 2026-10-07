@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-07 (reconstructed)
 // Q109: Maximum sum among all contiguous subarrays of size k.
 #include <stdio.h>
 #include <stdlib.h>
