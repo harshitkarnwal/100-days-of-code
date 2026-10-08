@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-08 (reconstructed)
 // Q110: Maximum value in every sliding window of size k.
 #include <stdio.h>
 #include <stdlib.h>
