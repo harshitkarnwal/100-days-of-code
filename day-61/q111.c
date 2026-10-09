@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-09 (reconstructed)
 // Q111: First negative integer in each sliding window of size k.
 #include <stdio.h>
 #include <stdlib.h>
