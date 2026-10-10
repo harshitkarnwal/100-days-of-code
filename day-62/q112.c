@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-10 (reconstructed)
 // Q112: Maximum contiguous subarray sum using Kadane's algorithm.
 #include <stdio.h>
 #include <stdlib.h>
