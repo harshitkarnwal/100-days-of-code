@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-11 (reconstructed)
 // Q113: Find the kth smallest array element (duplicates count separately).
 #include <stdio.h>
 #include <stdlib.h>
