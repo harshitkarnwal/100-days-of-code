@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-12 (reconstructed)
 // Q114: Length of the longest substring without repeating characters.
 #include <stdio.h>
 #include <string.h>
