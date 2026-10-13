@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-13 (reconstructed)
 // Q115: Check whether two lowercase strings are anagrams.
 #include <stdio.h>
 #include <string.h>
