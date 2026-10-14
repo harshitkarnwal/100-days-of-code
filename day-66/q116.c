@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-14 (reconstructed)
 // Q116: Find two distinct indices whose values add up to target.
 #include <stdio.h>
 #include <stdlib.h>
