@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-15 (reconstructed)
 // Q117: Merge two already sorted arrays into one sorted array.
 #include <stdio.h>
 #include <stdlib.h>
