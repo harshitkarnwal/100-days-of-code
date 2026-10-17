@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-17 (reconstructed)
 // Q119: Find the one repeated integer in a single pass using a hash set.
 #include <stdio.h>
 #include <stdlib.h>
