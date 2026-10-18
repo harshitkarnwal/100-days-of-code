@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-18 (reconstructed)
 // Q120: Convert a line to title-style sentence case (capitalize each word).
 #include <stdio.h>
 #include <ctype.h>
