@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-21 (reconstructed)
 // Q123: Count characters, whitespace-separated words, and lines in sample.txt.
 #include <stdio.h>
 #include <ctype.h>
