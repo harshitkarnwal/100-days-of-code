@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-23 (reconstructed)
 // Q125: Append one input line to an existing text file without overwriting it.
 #include <stdio.h>
 int main(void){char file[256],line[2000];if(!fgets(file,sizeof file,stdin))return 1;for(int i=0;file[i];i++)if(file[i]=='\n'||file[i]=='\r'){file[i]=0;break;}if(!fgets(line,sizeof line,stdin))return 1;FILE*f=fopen(file,"a+");if(!f){perror(file);return 1;}if(fseek(f,0,SEEK_END)!=0){fclose(f);return 1;}long size=ftell(f);if(size<0){fclose(f);return 1;}if(size>0){if(fseek(f,-1,SEEK_END)!=0){fclose(f);return 1;}int last=fgetc(f);if(last!='\n'&&last!='\r'&&fputc('\n',f)==EOF){fclose(f);return 1;}}if(fputs(line,f)==EOF){fclose(f);return 1;}int n=0;while(line[n]&&line[n]!='\n'&&line[n]!='\r')n++;if(n>0&&!line[n]&&fputc('\n',f)==EOF){fclose(f);return 1;}if(fclose(f)!=0)return 1;puts("File updated successfully with appended text.");return 0;}
