@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-25 (reconstructed)
 // Q127: Convert lowercase letters in input.txt to uppercase in output.txt.
 #include <stdio.h>
 #include <ctype.h>
