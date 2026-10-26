@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-26 (reconstructed)
 // Q128: Count vowels and consonants in text.txt; ignore digits and symbols.
 #include <stdio.h>
 #include <ctype.h>
