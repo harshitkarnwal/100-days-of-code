@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-10-30 (reconstructed)
 // Q132: Map a traffic-light enum value to its instruction.
 #include <stdio.h>
 #include <string.h>
