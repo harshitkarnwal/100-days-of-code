@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-03 (reconstructed)
 // Q136: Use an enum menu choice and switch to perform arithmetic.
 #include <stdio.h>
 #include <string.h>
