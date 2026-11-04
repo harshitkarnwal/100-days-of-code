@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-04 (reconstructed)
 // Q137: Use an enum to display a message for ADMIN, USER, or GUEST.
 #include <stdio.h>
 #include <string.h>
