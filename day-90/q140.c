@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-07 (reconstructed)
 // Q140: Store an enum gender in a struct and print the person's gender.
 #include <stdio.h>
 #include <string.h>
