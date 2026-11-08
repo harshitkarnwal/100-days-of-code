@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-08 (reconstructed)
 // Q141: Read and display one student's name, roll number, and marks using a struct.
 #include <stdio.h>
 struct Student{char name[100];int roll_no;float marks;};
