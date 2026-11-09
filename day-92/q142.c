@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-09 (reconstructed)
 // Q142: Store five student records in an array of structures and display them.
 #include <stdio.h>
 struct Student{char name[100];int roll;float marks;};
