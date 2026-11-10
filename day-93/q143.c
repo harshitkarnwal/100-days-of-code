@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-10 (reconstructed)
 // Q143: Find the student with the highest marks using an array of structures.
 #include <stdio.h>
 struct Student{char name[100];int roll;float marks;};
