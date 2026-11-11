@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-11 (reconstructed)
 // Q144: Pass a structure to a function by value and print its members.
 #include <stdio.h>
 struct Student{char name[100];int roll;float marks;};
