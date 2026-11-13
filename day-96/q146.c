@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-13 (reconstructed)
 // Q146: Use a nested Date structure inside Employee and print its details.
 #include <stdio.h>
 struct Date{int day,month,year;};
