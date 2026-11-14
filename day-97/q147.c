@@ -1,3 +1,4 @@
+// Retrospective completion date: 2026-11-14 (reconstructed)
 // Q147: Store employee data in a binary file using fwrite() and read it using fread().
 #include <stdio.h>
 struct Employee{char name[100];int id;double salary;};
