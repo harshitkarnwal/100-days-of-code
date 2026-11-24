@@ -1,0 +1,3 @@
+// Q130: Save student records to students.txt with fprintf(), then read with fscanf().
+#include <stdio.h>
+int main(void){int n;if(scanf("%d",&n)!=1||n<0)return 1;FILE*f=fopen("students.txt","w");if(!f){perror("students.txt");return 1;}for(int i=0;i<n;i++){char name[100];int roll,marks;if(scanf("%99s %d %d",name,&roll,&marks)!=3){fclose(f);return 1;}fprintf(f,"%s %d %d\n",name,roll,marks);}if(fclose(f)!=0)return 1;f=fopen("students.txt","r");if(!f){perror("students.txt");return 1;}char name[100];int roll,marks;while(fscanf(f,"%99s %d %d",name,&roll,&marks)==3)printf("Name: %s | Roll: %d | Marks: %d\n",name,roll,marks);int bad=ferror(f);fclose(f);return bad?1:0;}
